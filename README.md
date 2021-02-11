@@ -13,6 +13,9 @@ Só o representante do grupo precisa entregar.
 
 <table>
 <tr>
+<td>Artefato   </td><td>Situação</td><td>Comentário</td>
+</tr>
+<tr>
 <td>Artefato 00</td><td>Em aberto</td><td>Falta definir a empresa modelo</td>
 </tr>
 <tr>
