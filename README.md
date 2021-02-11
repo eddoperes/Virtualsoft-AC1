@@ -28,13 +28,13 @@ Só o representante do grupo precisa entregar.
 <td>03 Comunicação</td><td>Pronto</td>        <td>Mas cabe revisão</td>
 </tr>
 <tr>
-<td>04 Glossário</td>  <td>Em aberto</td>     <td> Falta glossario</td>
+<td>04 Glossário</td>  <td>Pronto</td>        <td>Mas cabe revisão</td>
 </tr>
 <tr>
-<td>05 Referencias</td><td>Pronto</td>        <td> Mas cabe revisão</td>
+<td>05 Referencias</td><td>Pronto</td>        <td>Mas cabe revisão</td>
 </tr>
 <tr>
-<td>06 Necessidades</td><td>Em aberto</td>     <td> Falta necessidades</td>
+<td>06 Necessidades</td><td>Em aberto</td>     <td>Falta necessidades</td>
 </tr>
 </table>
 
