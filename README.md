@@ -13,28 +13,28 @@ Só o representante do grupo precisa entregar.
 
 <table>
 <tr>
-<td>Artefato   </td><td>Situação</td><td>Comentário</td>
+<td>Artefato   </td>   <td>Situação</td><td>Comentário</td>
 </tr>
 <tr>
-<td>Artefato 00</td>   <td>Em aberto</td>     <td>Falta definir a empresa modelo</td>
+<td>00 Projeto </td>   <td>Em aberto</td>     <td>Falta definir a empresa modelo</td>
 </tr>
 <tr>
-<td>Artefato 01</td>   <td>Em aberto</td>     <td>Falta definir o escopo</td>
+<td>01 Escopo  </td>   <td>Em aberto</td>     <td>Falta definir o escopo</td>
 </tr>
 <tr>
-<td>Artefato 02</td>   <td>Semi pronto</td>   <td>Falta definir os papeis</td>
+<td>02 Papeis  </td>   <td>Semi pronto</td>   <td>Falta definir os papeis</td>
 </tr>
 <tr>
-<td>Artefato 03</td>   <td>Pronto</td>        <td>Mas cabe revisão</td>
+<td>03 Comunicação</td><td>Pronto</td>        <td>Mas cabe revisão</td>
 </tr>
 <tr>
-<td>Artefato 04</td>   <td>Em aberto</td>     <td> Falta glossario</td>
+<td>04 Glossário</td>  <td>Em aberto</td>     <td> Falta glossario</td>
 </tr>
 <tr>
-<td>Artefato 05</td>   <td>Pronto</td>        <td> Mas cabe revisão</td>
+<td>05 Referencias</td><td>Pronto</td>        <td> Mas cabe revisão</td>
 </tr>
 <tr>
-<td>Artefato 06</td>   <td>Em aberto</td>     <td> Falta necessidades</td>
+<td>06 Necessidades</td><td>Em aberto</td>     <td> Falta necessidades</td>
 </tr>
 </table>
 
