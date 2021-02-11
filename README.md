@@ -31,7 +31,7 @@ Só o representante do grupo precisa entregar.
 <td>Artefato 04</td>   <td>Em aberto</td>     <td> Falta glossario</td>
 </tr>
 <tr>
-<td>Artefato 05</td>   <td>Em aberto</td>     <td> Falta referências</td>
+<td>Artefato 05</td>   <td>Pronto</td>        <td> Mas cabe revisão</td>
 </tr>
 <tr>
 <td>Artefato 06</td>   <td>Em aberto</td>     <td> Falta necessidades</td>
