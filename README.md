@@ -11,11 +11,27 @@ Precisam ser entregues em PDF pelo classroom.
 
 Só o representante do grupo precisa entregar.
 
-Artefato 00 -> Em aberto   -> Falta definir a empresa modelo <br/>
-Artefato 01 -> Em aberto   -> Falta definir o escopo         <br/>
-Artefato 02 -> Semi pronto -> Falta definir os papeis        <br/>
-Artefato 03 -> Pronto      -> Mas cabe revisão               <br/>
-Artefato 04 -> Em aberto   -> Falta glossario                <br/>
-Artefato 05 -> Em aberto   -> Falta referências              <br/>
-Artefato 06 -> Em aberto   -> Falta necessidades             <br/>
+<table>
+<tr>
+<td>Artefato 00</td><td>Em aberto</td><td>Falta definir a empresa modelo</td>
+</tr>
+<tr>
+<td>Artefato 01</td><td>Em aberto</td><td>Falta definir o escopo</td>
+</tr>
+<tr>
+<td>Artefato 02</td><td>Semi pronto</td><td>Falta definir os papeis</td>
+</tr>
+<tr>
+<td>Artefato 03</td><td>Pronto   </td><td>Mas cabe revisão</td>
+</tr>
+<tr>
+<td>Artefato 04</td><td>Em aberto  </td><td> Falta glossario</td>
+</tr>
+<tr>
+<td>Artefato 05</td><td>Em aberto   </td><td> Falta referências</td>
+</tr>
+<tr>
+<td>Artefato 06</td><td>Em aberto   </td><td> Falta necessidades</td>
+</tr>
+</table>
 
