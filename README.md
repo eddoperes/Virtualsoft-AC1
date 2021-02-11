@@ -11,7 +11,7 @@ Precisam ser entregues em PDF pelo classroom.
 
 Só o representante do grupo precisa entregar.
 
-  Artefato 00 -> Em aberto   -> Falta definir a empresa modelo
+  Artefato 00 -> Em aberto   -> Falta definir a empresa modelo <br/>
 | Artefato 01 -> Em aberto   -> Falta definir o escopo
 | Artefato 02 -> Semi pronto -> Falta definir os papeis
 | Artefato 03 -> Pronto      -> Mas cabe revisão
